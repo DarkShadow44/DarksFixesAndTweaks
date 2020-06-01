@@ -1,6 +1,9 @@
 # Dark's Fixes and Tweaks
 This mod attempts to fix incompatibilities and balance problems between mods.
 
+Mostly for my own modpack, but might be of use for others as well.
+Please report issues to my github!
+
 Fixes the following crashes:
 - Crash in Mad Clowns Science when using with Bob's Technology + Science Cost Tweaker  + pY Coal Processing
 - Crash when using Science Cost Tweaker + Angel's Bio Processing
