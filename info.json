@@ -1,0 +1,11 @@
+{
+  "name": "DarksFixesAndTweaks",
+  "title": "Dark's Fixes and Tweaks",
+  "version": "0.0.1",
+  "factorio_version":"0.18",
+  "author": "DarkShadow44",
+  "dependencies": ["base >= 0.18.0", "? bobtech", "? Clowns-Science", "? ScienceCostTweakerM", "? pycoalprocessing", "? angelsbioprocessing", "? apm_power", "? angelsrefining", "? PyCoalTBaA", "? angelsindustries", "? angelssmelting", "?pyalienlife" ],
+  "contact": "TBD",
+  "homepage": "TBD",
+  "description": "This mod attempts to fix incompatibilities and balance problems between mods."
+}
