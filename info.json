@@ -1,7 +1,7 @@
 {
   "name": "DarksFixesAndTweaks-WIP",
   "title": "Dark's Fixes and Tweaks",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "factorio_version":"0.18",
   "author": "DarkShadow44",
   "dependencies": ["base >= 0.18.0", "? bobtech", "? Clowns-Science", "? ScienceCostTweakerM", "? pycoalprocessing", "? angelsbioprocessing", "? apm_power", "? angelsrefining", "? PyCoalTBaA-Temp-Dark", "? angelsindustries", "? angelssmelting", "? pyalienlife", "? Geothermal" ],
