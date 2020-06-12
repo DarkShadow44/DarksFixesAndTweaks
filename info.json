@@ -1,10 +1,10 @@
 {
   "name": "DarksFixesAndTweaks-WIP",
   "title": "Dark's Fixes and Tweaks",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "factorio_version":"0.18",
   "author": "DarkShadow44",
-  "dependencies": ["base >= 0.18.0", "? bobtech", "? Clowns-Science", "? ScienceCostTweakerM", "? pycoalprocessing", "? angelsbioprocessing", "? apm_power", "? angelsrefining", "? PyCoalTBaA-Temp-Dark", "? angelsindustries", "? angelssmelting", "? pyalienlife" ],
+  "dependencies": ["base >= 0.18.0", "? bobtech", "? Clowns-Science", "? ScienceCostTweakerM", "? pycoalprocessing", "? angelsbioprocessing", "? apm_power", "? angelsrefining", "? PyCoalTBaA-Temp-Dark", "? angelsindustries", "? angelssmelting", "? pyalienlife", "? Geothermal" ],
   "contact": "https://github.com/DarkShadow44/DarksFixesAndTweaks/Issues",
   "homepage": "https://github.com/DarkShadow44/DarksFixesAndTweaks",
   "description": "This mod attempts to fix incompatibilities and balance problems between mods. Report issues to my github."

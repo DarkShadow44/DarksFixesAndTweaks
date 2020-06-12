@@ -12,3 +12,6 @@ Fixes the following crashes:
 - Fix PyCoal Touched By an Angel "heavy water" crash
 - Fix crash with Py Alien Life and Bio Industries
 
+Adds the following tweaks:
+- Geothermal patches start better, but slowly deplete to a little bit less than before
+
