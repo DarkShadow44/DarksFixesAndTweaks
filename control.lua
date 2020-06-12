@@ -18,8 +18,10 @@ function handle_geothermal()
 end
 
 script.on_event(defines.events.on_chunk_generated, function(event)
-	-- To prevent race conditions, and because we need to run after Geothermal, delay execution a bit
-	table.insert(global.geothermal_chunk_updates, {surface = event.surface, area = event.area, ticks = 10})
+	if game.active_mods["Geothermal"] then
+		-- To prevent race conditions, and because we need to run after Geothermal, delay execution a bit
+		table.insert(global.geothermal_chunk_updates, {surface = event.surface, area = event.area, ticks = 10})
+	end
 end)
 
 script.on_init(function()
