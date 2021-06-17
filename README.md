@@ -5,12 +5,7 @@ Mostly for my own modpack, but might be of use for others as well.
 Please report issues to my github!
 
 Fixes the following crashes:
-- Crash in Mad Clowns Science when using with Bob's Technology + Science Cost Tweaker  + pY Coal Processing
-- Crash when using Science Cost Tweaker + Angel's Bio Processing
-- Crash when using Amator Phasma's Coal & Steam + Angel's Bio Processing
-- Crash when using PyCoal Touched By an Angel + Angel's Industries
-- Fix PyCoal Touched By an Angel "heavy water" crash
-- Fix crash with Py Alien Life and Bio Industries
+- Currently none
 
 Adds the following tweaks:
 - Geothermal patches start better, but slowly deplete to a little bit less than before
